@@ -5,7 +5,8 @@
 
 👽 Olá, me chamo Maycon Felipe!
 
-🎒 Estudante em Análise e Desenvolvimento de Sistemas, com foco em Python e framework Django, PostgreSQL, versionamento de código. Engenharia de prompots. E tecnologias relacionads.
+🎒 Programador Junior. 
+Estudante em Análise e Desenvolvimento de Sistemas, com foco em Python, JavaScript e framework Django, React, Node.js, Persistência PostgreSQL, versionamento de código. Integração de Inteligência Artificial. E tecnologias relacionads.
 
 📫 [Acesse o meu Linkedin](https://www.linkedin.com/in/maycon-felipe-ba6939304/)
 
